@@ -59,7 +59,3 @@ The system provides emergency assistance options for:
 | 💡 IntelliJ IDEA | Development environment |
 | 📦 MySQL Connector/J | MySQL connectivity |
 
----
-├── ComplaintReport_Water.txt
-├── README.md
-└── ...
